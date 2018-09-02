@@ -34,7 +34,7 @@ if(trim($comments) == '') {
 if(get_magic_quotes_gpc()) {
     $comments = stripslashes($comments);
 }
-$address = "example@example.net";
+$address = "contact@olgaparfenchik.com";
 $e_subject = 'You have been contacted by ' . $name . '.';
 $e_body = "You have been contacted by $name. Their additional message is as follows." . PHP_EOL . PHP_EOL;
 $e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;
