@@ -116,6 +116,7 @@ main[role="main-home-wrapper"],main[role="main-inner-wrapper"] { padding-bottom:
 main[role="main-home-wrapper"] article[role="pge-title-content"],main[role="main-inner-wrapper"] article[role="pge-title-content"]{ padding-left:0px; padding-bottom:40px} /*150px*/
 #home-title{
     padding-bottom: 110px;
+    width: 580px;
 }
 main[role="main-home-wrapper"] article[role="pge-title-content"] header,main[role="main-inner-wrapper"] article[role="pge-title-content"] header{ padding-bottom:19px; padding-top:83px}
 main[role="main-home-wrapper"] article[role="pge-title-content"] header h2,main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2{ font-size:46px; line-height:53px; color:#000; font-weight:800} /*#404040;*/
